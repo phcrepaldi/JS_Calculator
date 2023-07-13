@@ -40,3 +40,4 @@ links to humans using your project. You can include links like:
 ## Licensing
 
 "The code in this project is licensed under MIT license."
+# JS_Calculator
