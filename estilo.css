@@ -1,0 +1,39 @@
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 55px;
+    color: rgb(78, 78, 78);
+}
+
+#visor,
+#visor2 {
+    width: 250px;
+    height: 50px;
+    text-align: right;
+    font-size: 20px;
+    background-color: rgb(212, 237, 245);
+    box-shadow: inset -2px -2px 5px 1px rgba(0, 0, 0, 0.3);
+    color: rgb(59, 157, 223);
+    font-size: 36px;
+}
+
+button {
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: lightgray;
+}
+
+button:hover {
+
+    background-color: rgb(250, 215, 176);
+}
+
+div {
+    width: 400px;
+    padding: 50px;
+}
+
+.calc {
+    width: 250px;
+}
