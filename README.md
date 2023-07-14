@@ -13,7 +13,8 @@ A simple calculator made with HTML, CSS and JS.
 Simple calculator with basic operations.
 * Hystory of operations
 * Reuse last result to continue operations
-* 9 digits and 4 operations
+* 12 digits
+* 4 operations
 
 ## Contributing
 
@@ -22,22 +23,11 @@ branch. Pull requests are warmly welcome."
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
-- Project homepage: https://your.github.com/awesome-project/
-- Repository: https://github.com/your/awesome-project/
-- Issue tracker: https://github.com/your/awesome-project/issues
+- Project homepage: https://github.com/phcrepaldi/JS_Calculator
+- Issue tracker:
   - In case of sensitive bugs like security vulnerabilities, please contact
-    my@email.com directly instead of using issue tracker. We value your effort
-    to improve the security and privacy of this project!
-- Related projects:
-  - Your other project: https://github.com/your/other-project/
-  - Someone else's project: https://github.com/someones/awesome-project/
-
+    phcrepaldi@gmail.com directly instead of using issue tracker. We value your effort to improve the security and privacy of this project!
 
 ## Licensing
 
 "The code in this project is licensed under MIT license."
-# JS_Calculator
