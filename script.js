@@ -4,8 +4,6 @@ let n1, n2, res = 0; /* 3 variaves globais */
 let flag = 0;
 let flag1 = 0;
 
-
-
 function cl() {
     document.getElementById("visor").value = "";
     document.getElementById("visor2").value = "";
@@ -35,7 +33,6 @@ function calc(val) {
     }
     flag1 = 1;
 }
-
 
 document.addEventListener("keydown", event => {
     if (flag == 0) {
@@ -169,9 +166,6 @@ document.addEventListener("keydown", event => {
     }
 })
 
-
-
-
 function conta() {
 
     n2 = document.getElementById("visor").value;
@@ -193,7 +187,6 @@ function conta() {
             switch (op) {
                 case "+":
                     s = n1 + n2;
-
                     break;
                 case "-":
                     s = n1 - n2;
@@ -214,11 +207,6 @@ function conta() {
             op = "";
             flag = 1;
             flag1 = 0;
-
-
         }
-
     }
-
-
 }
